@@ -9,3 +9,6 @@ Welcome to my Data Analytics portfolio. This repository showcases a collection o
 - Matplotlib
 - Seaborn
 - Jupyter Notebooks
+
+## Table of Contents
+1. [Project 1: HR Employee Attrition and Performance Amalysis](#project-1-HR)
